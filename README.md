@@ -21,7 +21,7 @@ ninth step: name your project some nonsense and then select .NET framework 4.8 (
 
 tenth step: once the project is done loading, press save all at the top-left.
 
-eleventh step: Open File Explorer and type this at the path search bar "C:\Users" (type of path search bar in 2nd image.)
+eleventh step: Open File Explorer and type this at the path search bar "C:\Users" (the search bar at the top of the file explorer NOT the top right search bar)
 
 twelfth step: select your user and find the folder named "source".
 
