@@ -30,3 +30,5 @@ thirteenth step: click on repos. Now, don't select what you named your project e
 fourteenth step: open the Luna folder, then open the Luna in the folder that you extracted, then open the bin folder, then the Debug folder. Now, for the FINAL STEP. open the application named "Luna".
 
 CONGRATULATIONS! now you have Luna installed. Open Roblox, join a game, then press inject.
+
+I gave y'all some scripts you can use :P
