@@ -1,4 +1,5 @@
 # Luna-Executor
+PLEASE DON'T BAN ME GITHUB
 read the README file to follow the steps to downloading this!!
 
 first step: Download Visual Studio https://visualstudio.microsoft.com/
